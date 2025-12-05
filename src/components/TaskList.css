@@ -1,0 +1,17 @@
+.delete-task__button {
+  height: 22px;
+  width: 26px;
+  margin-left: 15px;
+}
+
+.list-item {
+  list-style: digit;
+}
+
+.list {
+  border: 1px solid green;
+  min-height: 50px;
+  max-width: 500px;
+  margin-top: 10px;
+  font-size: 17px;
+}
